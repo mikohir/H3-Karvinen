@@ -1,3 +1,3 @@
-#H3-Karvinen
+# Palvelinten hallintaa by Miko Hirvelä
 
-Versionhallintaa (tehtävä 3) Tero Karvisen palvelimien hallinta -kurssilta.
+Julkaisen tänne harjoituksia Tero Karvisen järjestämältä palvelinten hallinta -kurssilta. Tässä vielä linkki kurssin sivuille: https://terokarvinen.com/2021/configuration-management-systems-palvelinten-hallinta-ict4tn022-spring-2021/
